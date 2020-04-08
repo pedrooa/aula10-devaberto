@@ -1,0 +1,18 @@
+Metadata-Version: 1.2
+Name: dev-aberto-pedrooa
+Version: 0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Pedro Azambuja
+Author-email: pedrooa@al.insper.edu.br
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Environment :: Web Environment
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Requires-Python: >3.5.2
